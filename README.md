@@ -1,17 +1,9 @@
 - 👋 Hi, I’m Sasha Fridman
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ludmila-vishnyak/)
-- :bulb: Here is a portfolio of my favourite projects:
+- 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/)
+- :bulb: Here is a portfolio of some of my projects:
 
 
-## Graduation projects:
-| № | Projects   | Description                                                    | Tools |
-|---|----------|------------------------------------------------------------|-------------|
-|1  |[Retail: Assess Sales Outlets' Performance](https://github.com/Susan-Calvin/Retail-Assesment/blob/main/12_Retail%20Assesment.ipynb)|Analysis and assessment of key performance parameters of offline retail outlets |python, pandas, numpy, scipy, matplotlib, seaborn, plotly express, squarify, Tableau, Canva|
-|2  |[Analysis of A/B testing results](https://github.com/Susan-Calvin/AB-test-Validation/blob/main/10_AB%20test%20validation.ipynb)|Evaluation of the correctness of the A/B test according to technical requirements, validation of the test results|python, pandas, datetime, scipy, matplotlib, seaborn, plotly|
-|3  |[Analysis of database tables](https://github.com/Susan-Calvin/SQL-queries/blob/main/11_SQL_books%20database.ipynb)|Connecting to a database, creating SQL queries|SQL, python, pandas, sqlalchemy, psycopg2|
- 
-
- ## Practicum projects:
+ ## Tripleten (ex. Practicum) projects
 | № | Project   | Topic   |Description                                                    | Tools |
 |---|----------|--------|------------------------------------------------------------|-------------|
 |1  |[Borrower reliability research](https://github.com/Susan-Calvin/Analyzing-loan-risk/blob/main/1_Credit_Scoring.ipynb)|Data Preprocessing|Analysis of factors affecting loan repayment on time based on customer solvency statistics|python, pandas, nltk|
