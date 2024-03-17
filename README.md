@@ -1,6 +1,6 @@
 - 👋 Thank you for visiting my Github account. I'm Sasha Fridman, a passionate data and business analyst.
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/)
-- :bulb: Here is a portfolio of some of my projects:
+- :bulb: Here are some of the projects I've worked on:
 
 
  ## TripleTen (ex. Practicum) projects
