@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sasha Fridman
+- 👋 Thank you for visiting my Github account. I'm Sasha Fridman, a passionate data and business analyst.
 - 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/sasha-fridman/)
 - :bulb: Here is a portfolio of some of my projects:
 
