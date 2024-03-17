@@ -3,7 +3,7 @@
 - :bulb: Here is a portfolio of some of my projects:
 
 
- ## Tripleten (ex. Practicum) projects
+ ## TripleTen (ex. Practicum) projects
 | № | Project   | Topic   |Description                                                    | Tools |
 |---|----------|--------|------------------------------------------------------------|-------------|
 |1  |[Borrower reliability research](https://github.com/Susan-Calvin/Analyzing-loan-risk/blob/main/1_Credit_Scoring.ipynb)|Data Preprocessing|Analysis of factors affecting loan repayment on time based on customer solvency statistics|python, pandas, nltk|
